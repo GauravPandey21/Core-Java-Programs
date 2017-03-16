@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Response>
+   <OrderNo orderNo="11">
+      <RespCode>0</RespCode>
+      <RespDesc>SUCCESS</RespDesc>
+      <Amount>100.00</Amount>     
+   </OrderNo>   
+</Response>
